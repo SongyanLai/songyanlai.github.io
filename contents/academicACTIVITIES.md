@@ -17,8 +17,8 @@
 - Effectively help farmers improve breeding efficiency.
 - Awarded Second Prize of National College Students' Mathematical Modeling Competition.
 
-<strong> The 8th College Students' Innovation and Entrepreneurship Competition </strong>
-<strong>2021-2022 AI-powered Cow Bedding Regeneration System (PATENT 2)</strong>
+<strong>2021-2022  The 8th College Students' Innovation and Entrepreneurship Competition </strong>
+<strong>AI-powered Cow Bedding Regeneration System (PATENT 2)</strong>
 - Developed an IoT-based system for converting cow manure into valuable bedding material.
 - Automated the solid-liquid separation process, enhancing production efficiency and quality.
 - Awarded Silver at the 8th China "Internet+" College Students' Innovation and Entrepreneurship Competition.
