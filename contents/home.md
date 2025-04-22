@@ -18,7 +18,7 @@ Songyan.Lai.2024@mumail.ie
 - Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
 
 
-<strong>09/2021-06/2024 Hangzhou Vocational and Technical College, China</strong>
+<strong>09/2021-06/2024 Hangzhou Vocational and Technical College, China</strong>\
 <strong>Certificate:</strong> College Diploma\
 <strong>Major:</strong> Big Data Technology\
 <strong>GPA:</strong> 90.43/100 (4.14/5.0) ranking the 2nd out of 86 students in the Major. Awarded First-Class Excellent Student Scholarship, 2024\
