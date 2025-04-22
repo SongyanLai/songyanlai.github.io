@@ -6,6 +6,7 @@ const section_names = [
   "academicACTIVITIES",
   "PATENTS",
   "publications",
+  "volunteerEXPERIENCE",
   "awards",
 ];
 
