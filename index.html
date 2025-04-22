@@ -52,33 +52,27 @@
 
     <!-- Mathematics -->
     <script>
-      // See https://docs.mathjax.org/en/latest/index.html for more details.
       MathJax = {
         tex: {
-          packages: {}, // extensions to use
+          packages: {},
           inlineMath: [
-            // start/end delimiter pairs for in-line math
             ["$", "$"],
             ["\\(", "\\)"],
           ],
           displayMath: [
-            // start/end delimiter pairs for display math
             ["$$", "$$"],
             ["\\[", "\\]"],
           ],
-          processEscapes: false, // use \$ to produce a literal dollar sign
-          processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-          processRefs: true, // process \ref{...} outside of math mode
-          digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/, // pattern for recognizing numbers
-          tags: "all", // or 'ams' or 'all'
-          tagSide: "right", // side for \tag macros
-          tagIndent: "0.8em", // amount to indent tags
-          useLabelIds: true, // use label name rather than tag for ids
-          maxMacros: 10000, // maximum number of macro substitutions per expression
-          maxBuffer: 5 * 1024, // maximum size for the internal TeX string (5K)
-          // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-          // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-          // function called when TeX syntax errors occur
+          processEscapes: false,
+          processEnvironments: true,
+          processRefs: true,
+          digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,
+          tags: "all",
+          tagSide: "right",
+          tagIndent: "0.8em",
+          useLabelIds: true,
+          maxMacros: 10000,
+          maxBuffer: 5 * 1024,
           formatError: (jax, err) => jax.formatError(err),
         },
       };
@@ -112,7 +106,6 @@
           class="navbar-brand fw-bold"
           href="#page-top"
         ></a>
-        <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
         <button
           class="navbar-toggler"
           type="button"
@@ -128,20 +121,20 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="#page-top">HOME</a>
+              <a class="nav-link me-lg-3" href="#home">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="#WorkEXPERIENCE"
+              <a class="nav-link me-lg-3" href="#workExperience"
                 >WORK EXPERIENCE</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="academicACTIVITIES"
+              <a class="nav-link me-lg-3" href="#academicActivities"
                 >ACADEMIC ACTIVITIES</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="#PATENTS">PATENTS</a>
+              <a class="nav-link me-lg-3" href="#patents">PATENTS</a>
             </li>
             <li class="nav-item">
               <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
@@ -168,7 +161,6 @@
         </div>
       </div>
     </section>
-    <!-- Top Section -->
 
     <!-- Photo -->
     <div class="container px-5">
@@ -176,63 +168,60 @@
         <img class="shadow" src="static/assets/img/photo.png" />
       </div>
     </div>
-    <!-- Photo -->
 
     <!-- Home -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
       <div class="container px-5">
         <header>
           <h2 id="home-subtitle"></h2>
-          <!-- <span class="bi bi-list"></span> -->
         </header>
         <div class="main-body" id="home-md"></div>
       </div>
     </section>
-    <!-- Home -->
+
     <!-- WORK EXPERIENCE -->
     <section
       class="bg-gradient-primary-to-secondary-gray mt5 md5"
-      id="WorkEXPERIENCE"
+      id="workExperience"
     >
       <div class="container px-5">
         <header>
-          <h2 id="WorkEXPERIENCE-subtitle">
+          <h2 id="workExperience-subtitle">
             <i class="bi bi-briefcase-fill"></i>&nbsp;WORK EXPERIENCE
           </h2>
         </header>
-        <div class="main-body" id="WorkEXPERIENCE-md"></div>
+        <div class="main-body" id="workExperience-md"></div>
       </div>
     </section>
-    <!-- WORK EXPERIENCE -->
 
-    <!-- academicACTIVITIES -->
+    <!-- ACADEMIC ACTIVITIES -->
     <section
       class="bg-gradient-primary-to-secondary-gray mt5 md5"
-      id="academicACTIVITIES"
+      id="academicActivities"
     >
       <div class="container px-5">
         <header>
-          <h2 id="academicACTIVITIES-subtitle">
+          <h2 id="academicActivities-subtitle">
             <i class="bi bi-file-text-fill"></i>&nbsp;ACADEMIC ACTIVITIES
           </h2>
         </header>
-        <div class="main-body" id="academicACTIVITIES-md"></div>
+        <div class="main-body" id="academicActivities-md"></div>
       </div>
     </section>
-    <!-- academicACTIVITIES  -->
+
     <!-- PATENTS -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="PATENTS">
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="patents">
       <div class="container px-5">
         <header>
-          <h2 id="PATENTS-subtitle">
+          <h2 id="patents-subtitle">
             <i class="bi bi-file-text-fill"></i>&nbsp;PATENTS
           </h2>
         </header>
-        <div class="main-body" id="PATENTS-md"></div>
+        <div class="main-body" id="patents-md"></div>
       </div>
     </section>
-    <!-- PATENTS  -->
-    <!-- Publications -->
+
+    <!-- PUBLICATIONS -->
     <section
       class="bg-gradient-primary-to-secondary-gray mt5 md5"
       id="publications"
@@ -246,9 +235,8 @@
         <div class="main-body" id="publications-md"></div>
       </div>
     </section>
-    <!-- Publications  -->
 
-    <!-- Awards -->
+    <!-- AWARDS -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
       <div class="container px-5">
         <header>
@@ -257,20 +245,15 @@
         <div class="main-body" id="awards-md"></div>
       </div>
     </section>
-    <!-- Awards -->
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
       <div class="container px-5">
         <div class="text-white-50 small">
           <div id="copyright-text" class="mb-2"></div>
-          <a id="github-link" href="https://github.com/senli1073">Github</a>
+          <a id="github-link" href="https://github.com/songyanlai">Github</a>
           <span class="mx-1">&middot;</span>
-          <a
-            id="license-link"
-            href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE"
-            >License</a
-          >
+          <!-- <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a> -->
         </div>
       </div>
     </footer>
