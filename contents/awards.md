@@ -1,4 +1,6 @@
-- National Scholarship, Ministry of Education of the People's Republic of China. (China's highest-level scholarship)
+- IPOET (International Programme Office for Education and Tra​ining) Scholarship, The Government of Sweden, 2025.
+
+- National Scholarship, Ministry of Education of the People's Republic of China (China's highest-level scholarship), 2024.
 
 - Outstanding Graduate of Zhejiang Province, Zhejiang Provincial Department of Education, 2024.
 
