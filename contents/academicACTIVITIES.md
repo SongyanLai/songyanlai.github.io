@@ -1,8 +1,8 @@
-<strong>09\2024-Present Integrating FRET and WEST (Collaboration with NASA) </strong>
+<strong>09\2024-Present Integrating FRET and WEST (Collaboration with NASA) [[Code]](https://github.com/SongyanLai/Integrating-FRET-and-WEST)</strong>  
 - Developing an integration between the FRET Tool and WEST Tool to enhance the traceability of system requirements, focusing on Linear Temporal Logic (LTL), Mission-Time LTL, and formal verification methodologies, while ensuring compatibility with WEST's state-space exploration and theorem proving techniques.
 - Examines FRET and WEST along with various Linear Temporal Logic frameworks and mainstream software formal verification tools, demonstrating the necessity of integrating FRET and WEST.
 
-<strong>09\2024-12\2024 Computer Science Student Social Website</strong>
+<strong>09\2024-12\2024 Computer Science Student Social Website [[Code]](https://github.com/SongyanLai/CS-CONNECT)</strong>
 - Developed the front-end interface of a social platform for Computer Science students using the React framework while adhering to SCRUM methodology in an Agile environment.
 - Participated in consensus estimation, system design, testing, and iterative implementation, leveraging skills in requirements analysis, wireframing, and user experience (UX) optimization using DevOps practices for efficient deployment and version control.
 
