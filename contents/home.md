@@ -9,9 +9,9 @@ Songyan.Lai.2024@mumail.ie
 
 #### Education
 
-<strong>09/2024 - 06/2025(Expected) Maynooth University, Ireland</strong> \
+<strong>09/2024 - 06/2025 Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
-<strong>Current and Predicted Final Averages:</strong> First-class Level\
+<strong>Final Degree Classification</strong> 1st CLASS HONOURS\
 <strong>Core Modules: </strong>Algorithms & Data Structures, Software Design, Mobile Application Development, Parallel & Distributed Systems, Computer Graphics, User Experience (UX) User Interface(UI)
 
 <strong>Core Research:</strong>
