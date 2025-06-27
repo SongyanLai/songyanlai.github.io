@@ -1,6 +1,6 @@
 [![senli1073](https://img.shields.io/badge/SongyanLai-github-blue?logo=github)](https://github.com/SongyanLai)
 
-He is currently pursuing a Bachelor's Degree in Computer Science, at Maynooth University, Ireland.
+He has been admitted to a prestigious double master’s programme in Cloud and Network Infrastructure, developed and delivered within the framework of the EU Digital Europe Programme (Project No. 101190015), with academic mobility between KTH Royal Institute of Technology (Sweden) and Aalto University (Finland).
 
 #### Email
 
@@ -11,7 +11,7 @@ Songyan.Lai.2024@mumail.ie
 
 <strong>09/2024 - 06/2025 Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
-<strong>Final Degree Classification</strong> 1st CLASS HONOURS\
+<strong>Final Degree Classification:</strong> 1st CLASS HONOURS\
 <strong>Core Modules: </strong>Algorithms & Data Structures, Software Design, Mobile Application Development, Parallel & Distributed Systems, Computer Graphics, User Experience (UX) User Interface(UI)
 
 <strong>Core Research:</strong>
