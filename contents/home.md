@@ -1,6 +1,6 @@
 [![senli1073](https://img.shields.io/badge/SongyanLai-github-blue?logo=github)](https://github.com/SongyanLai)
 
-He has been admitted to a prestigious double master’s programme in Cloud and Network Infrastructure, developed and delivered within the framework of the EU Digital Europe Programme (Project No. 101190015), with academic mobility between KTH Royal Institute of Technology (Sweden) and Aalto University (Finland).
+He has been admitted to a prestigious double master’s programme in Cloud and Network Infrastructure, developed and delivered within the framework of the EU Digital Europe Programme (Project No. 101190015), with academic mobility between KTH Royal Institute of Technology Sweden and Aalto University Finland.
 
 #### Email
 
