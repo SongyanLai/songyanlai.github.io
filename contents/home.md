@@ -24,8 +24,8 @@ Team Project-Front-end development of a social website using React, Agile method
 <strong>GPA:</strong> 90.43/100 (4.14/5.0) ranking the 2nd out of 86 students in the Major. Awarded First-Class Excellent Student Scholarship, 2024\
 <strong>Core Modules: </strong>Python Programming Development and Data Analysis, Java Programming, Linux Operating System, MySQL Database, JavaScript Language, HTML5 + CSS3 Technology, Computer Network Technology, Hadoop Big Data, Big Data Storage Technology, Spark Big Data Analysis, Data Cleaning, Machine Learning.\
 <strong>Core Research:</strong>\
-Mathematical Modeling: Optimization of Sheep Pen Space Utilization\
-AI-Powered Cow Bedding Regeneration System
+Mathematical Modeling: Optimization of Sheep Pen Space Utilization.\
+AI-Powered Cow Bedding Regeneration System.
 
 <!-- #### Current Research Direction
 
