@@ -6,14 +6,14 @@ Currently enrolled in the prestigious Double Master’s Programme in Cloud and N
 #### Email
 
 laisongyan@foxmail.com\
-Songyan.Lai.2024@mumail.ie
+SongyanL@kth.se
 
 #### Education
 
-<strong>08/2025 - present KTH Royal Institute of Technology, Sweden</strong> \
+<strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
 <strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)\
 
-<strong>09/2024 - 06/2025 Maynooth University, Ireland</strong> \
+<strong>09/2024 - 06/2025. Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
 <strong>Final Degree Classification:</strong> 1st CLASS HONOURS\
 <strong>Core Modules: </strong>Algorithms & Data Structures, Software Design, Mobile Application Development, Parallel & Distributed Systems, Computer Graphics, User Experience (UX) User Interface(UI)\
@@ -21,7 +21,7 @@ Songyan.Lai.2024@mumail.ie
 Final Year Project Case Integration of FRET and WEST tools for requirement traceability and formal verification cooperated with NASA.\
 Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
 
-<strong>09/2021-06/2024 Hangzhou Polytechnic University, China</strong>\
+<strong>09/2021-06/2024. Hangzhou Polytechnic University, China</strong>\
 <strong>Certificate:</strong> College Diploma\
 <strong>Major:</strong> Big Data Technology\
 <strong>GPA:</strong> 90.43/100 (4.14/5.0) ranking the 2nd out of 86 students in the Major. Awarded First-Class Excellent Student Scholarship, 2024\
