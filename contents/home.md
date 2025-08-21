@@ -11,7 +11,7 @@ SongyanL@kth.se
 #### Education
 
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
-<strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)\
+<strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)
 
 
 <strong>09/2024 - 06/2025. Maynooth University, Ireland</strong> \
