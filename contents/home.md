@@ -1,7 +1,7 @@
 [![senli1073](https://img.shields.io/badge/SongyanLai-github-blue?logo=github)](https://github.com/SongyanLai)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3109--5068-green?logo=orcid)](https://orcid.org/0009-0002-3109-5068)
 
-He has been admitted to a prestigious double master’s programme in Cloud and Network Infrastructure, developed and delivered within the framework of the EU Digital Europe Programme (Project No. 101190015), with academic mobility between KTH Royal Institute of Technology Sweden and Aalto University Finland.
+Currently enrolled in the prestigious Double Master’s Programme in Cloud and Network Infrastructure with HPC (EU Digital Europe Programme, Project No. 101190015), featuring academic mobility between KTH Royal Institute of Technology (Sweden) and Aalto University (Finland).
 
 #### Email
 
@@ -9,6 +9,9 @@ laisongyan@foxmail.com\
 Songyan.Lai.2024@mumail.ie
 
 #### Education
+
+<strong>08/2025 - present KTH Royal Institute of Technology, Sweden</strong> \
+<strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)\
 
 <strong>09/2024 - 06/2025 Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
@@ -18,7 +21,7 @@ Songyan.Lai.2024@mumail.ie
 Final Year Project Case Integration of FRET and WEST tools for requirement traceability and formal verification cooperated with NASA.\
 Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
 
-<strong>09/2021-06/2024 Hangzhou Vocational and Technical College, China</strong>\
+<strong>09/2021-06/2024 Hangzhou Polytechnic University, China</strong>\
 <strong>Certificate:</strong> College Diploma\
 <strong>Major:</strong> Big Data Technology\
 <strong>GPA:</strong> 90.43/100 (4.14/5.0) ranking the 2nd out of 86 students in the Major. Awarded First-Class Excellent Student Scholarship, 2024\
