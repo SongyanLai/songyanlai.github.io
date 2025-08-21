@@ -1,4 +1,4 @@
-<strong>09\2024-Present Integrating FRET and WEST (Collaboration with NASA) [[Code]](https://github.com/SongyanLai/Integrating-FRET-and-WEST)</strong>  
+<strong>09\2024-08\2025 Integrating FRET and WEST (Collaboration with NASA) [[Code]](https://github.com/SongyanLai/Integrating-FRET-and-WEST)</strong>  
 - Developing an integration between the FRET Tool and WEST Tool to enhance the traceability of system requirements, focusing on Linear Temporal Logic (LTL), Mission-Time LTL, and formal verification methodologies, while ensuring compatibility with WEST's state-space exploration and theorem proving techniques.
 - Examines FRET and WEST along with various Linear Temporal Logic frameworks and mainstream software formal verification tools, demonstrating the necessity of integrating FRET and WEST.
 

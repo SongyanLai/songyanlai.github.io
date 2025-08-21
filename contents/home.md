@@ -13,6 +13,7 @@ SongyanL@kth.se
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
 <strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)\
 
+
 <strong>09/2024 - 06/2025. Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
 <strong>Final Degree Classification:</strong> 1st CLASS HONOURS\
@@ -20,6 +21,7 @@ SongyanL@kth.se
 <strong>Core Research:</strong>\
 Final Year Project Case Integration of FRET and WEST tools for requirement traceability and formal verification cooperated with NASA.\
 Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
+
 
 <strong>09/2021-06/2024. Hangzhou Polytechnic University, China</strong>\
 <strong>Certificate:</strong> College Diploma\
@@ -29,6 +31,7 @@ Team Project-Front-end development of a social website using React, Agile method
 <strong>Core Research:</strong>\
 Mathematical Modeling: Optimization of Sheep Pen Space Utilization.\
 AI-Powered Cow Bedding Regeneration System.
+
 
 <!-- #### Current Research Direction
 
