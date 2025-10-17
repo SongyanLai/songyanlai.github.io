@@ -1,12 +1,19 @@
 [![senli1073](https://img.shields.io/badge/SongyanLai-github-blue?logo=github)](https://github.com/SongyanLai)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3109--5068-green?logo=orcid)](https://orcid.org/0009-0002-3109-5068)
 
-Currently enrolled in the prestigious Double Master’s Programme in Cloud and Network Infrastructure with HPC (EU Digital Europe Programme, Project No. 101190015), featuring academic mobility between KTH Royal Institute of Technology (Sweden) and Aalto University (Finland).
+I am currently working as a Research Assistant for Professor Dilian Gurov at KTH Royal Institute of Technology, while pursuing my Master’s in the prestigious Double Master’s Programme in Cloud and Network Infrastructure with HPC (EU Digital Europe Programme, Project No. 101190015), which is part of the EIT Digital Double Degree programme and features academic mobility between KTH Royal Institute of Technology (Sweden) and Aalto University (Finland). I hold a BSc in Computer Science with First-Class Honours from Maynooth University in Ireland.
+
+My academic focus lies in formal verification and cloud technologies. I have contributed to research projects in collaboration with NASA on formal methods and temporal logic, and have practical experience in full-stack development and IoT systems through internships and awarded patent projects. I am also a recipient of the IPOET Scholarship from the Swedish government and China’s National Scholarship.
+
+I am passionate about building scalable and verifiable computing systems and look forward to contributing to both academic and industrial advancements during my time at KTH and beyond.
 
 #### Email
 
 laisongyan@foxmail.com\
 SongyanL@kth.se
+
+
+
 
 #### Education
 
