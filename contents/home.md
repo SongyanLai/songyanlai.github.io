@@ -24,8 +24,11 @@ SongyanL@kth.se
 #### Education
 
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
-<strong>Degree:</strong> MSc ICT Innovation (EIT Digital - Cloud and Networking Infrastructure with HPC)
-
+<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital)
+<strong>Core Modules: </strong>Advanced Internetworking, Data-Intensive Computing, Distributed Systems, Data Mining\
+<strong>Core Research:</strong>\
+Collaborated with Scania to implement ContractFlowGraph: a hybrid verification toolchain converting C/ACSL programs into TLA+/nuXmv models for industrial case studies.\
+Designed and implemented a full-scale ISP network in a virtualized environment, configuring BGP routing, DNS, DHCP, and web services.
 
 <strong>09/2024 - 06/2025. Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
@@ -35,7 +38,6 @@ SongyanL@kth.se
 Final Year Project Case Integration of FRET and WEST tools for requirement traceability and formal verification cooperated with NASA.\
 Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
 
-
 <strong>09/2021-06/2024. Hangzhou Polytechnic University (Hangzhou Vocational & Technical College), China</strong>\
 <strong>Certificate:</strong> College Diploma\
 <strong>Major:</strong> Big Data Technology\
@@ -44,6 +46,7 @@ Team Project-Front-end development of a social website using React, Agile method
 <strong>Core Research:</strong>\
 Mathematical Modeling: Optimization of Sheep Pen Space Utilization.\
 AI-Powered Cow Bedding Regeneration System.
+
 
 
 <!-- #### Current Research Direction
