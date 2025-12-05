@@ -7,7 +7,7 @@ My academic focus lies in formal verification and cloud technologies. I have con
 
 I am passionate about building scalable and verifiable computing systems and look forward to contributing to both academic and industrial advancements during my time at KTH and beyond.
 
-KTH's vision and overall goals: Basic research for the benefit of society.
+KTH's vision and overall goals: 
 New knowledge and technical development – for the world, society and the human being.
 
 <!-- KTH:s vision och övergripande mål: Grundforskning till samhällsnytta
@@ -24,7 +24,7 @@ SongyanL@kth.se
 #### Education
 
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
-<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital)
+<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital) \
 <strong>Core Modules: </strong>Advanced Internetworking, Data-Intensive Computing, Distributed Systems, Data Mining\
 <strong>Core Research:</strong>\
 Collaborated with Scania to implement ContractFlowGraph: a hybrid verification toolchain converting C/ACSL programs into TLA+/nuXmv models for industrial case studies.\
