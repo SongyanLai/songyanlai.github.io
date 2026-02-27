@@ -38,8 +38,8 @@ Designed and implemented a full-scale ISP network in a virtualized environment, 
 Final Year Project Case Integration of FRET and WEST tools for requirement traceability and formal verification cooperated with NASA.\
 Team Project-Front-end development of a social website using React, Agile methods, and CI/CD practices.
 
-<strong>09/2021-06/2024. Hangzhou Polytechnic University (Hangzhou Vocational & Technical College), China</strong>\
-<strong>Certificate:</strong> College Diploma\
+<strong>09/2021-06/2024. Hangzhou Polytechnic University, China</strong>\
+<!-- <strong>Certificate:</strong> College Diploma\ -->
 <strong>Major:</strong> Big Data Technology\
 <strong>GPA:</strong> 90.43/100 (4.14/5.0) ranking the 2nd out of 86 students in the Major. Awarded First-Class Excellent Student Scholarship, 2024\
 <strong>Core Modules: </strong>Python Programming Development and Data Analysis, Java Programming, Linux Operating System, MySQL Database, JavaScript Language, HTML5 + CSS3 Technology, Computer Network Technology, Hadoop Big Data, Big Data Storage Technology, Spark Big Data Analysis, Data Cleaning, Machine Learning.\
