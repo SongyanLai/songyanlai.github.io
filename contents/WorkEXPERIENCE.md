@@ -1,7 +1,7 @@
-<strong>08/2025-Present KTH Royal Institute of Technology, Sweden</strong>\
+<strong>11/2025-Present KTH Royal Institute of Technology, Sweden</strong>\
 <strong>Research Assistant</strong>
-- Implemented ContractFlowGraph in collaboration with Scania to validate industrial software case studies.
-- Developed an automated verification pipeline for converting C/ACSL programs into models for system-level property checking.
+- Supervised by Prof. Dilian Gurov. Developing ContractFlowGraph, a hybrid verification toolchain designed to validate industrial automotive software.
+- Designing an automated translation pipeline from C/ACSL to TLA+/nuXmv, targeting the validation of industrial modules with an estimated 80% reduction in manual overhead.
 
 <strong>10/2023-06/2024 Cyberspace Security Innovation Research Institute, China</strong>\
 <strong>Full-Stack Engineer Intern</strong>

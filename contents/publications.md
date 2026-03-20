@@ -1,7 +1,8 @@
 - <strong>Songyan Lai</strong> and Rosemary Monahan. From LTL to MLTL: Exploring translation between temporal logic representations using FRET and WEST. Presented at the Formal Techniques for Judicious Programming (FTfJP) workshop on 3 July 2025, alongside ECOOP 2025.
   [[Code]](https://github.com/SongyanLai/Integrating-FRET-and-WEST) · [[Slides]](https://github.com/SongyanLai/Integrating-FRET-and-WEST/blob/main/FTfJP/FTfJP2025slides.pdf)
 
-- <strong>Songyan Lai</strong> and Rosemary Monahan. FRET2WEST:Exploring translation between temporal logic representations <strong> Journal of Object Technology </strong>; under review.
+- <strong>Songyan Lai</strong> and Rosemary Monahan. FRET2WEST: Exploring translation between temporal logic representations. <strong>Journal of Object Technology</strong>, 25(1), pp. 1:1-18, March 2026. 
+  [[Paper]](http://www.jot.fm/contents/issue_2026_01/a2.html) · [[DOI]](https://doi.org/10.5381/jot.2026.25.1.a2)
 
 <!-- - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 

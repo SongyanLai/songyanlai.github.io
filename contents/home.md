@@ -27,8 +27,8 @@ SongyanL@kth.se
 <strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital) \
 <strong>Core Modules: </strong>Advanced Internetworking, Data-Intensive Computing, Distributed Systems, Data Mining\
 <strong>Core Research:</strong>\
-Collaborated with Scania to implement ContractFlowGraph: a hybrid verification toolchain converting C/ACSL programs into TLA+/nuXmv models for industrial case studies.\
-Designed and implemented a full-scale ISP network in a virtualized environment, configuring BGP routing, DNS, DHCP, and web services.
+Designed and implemented a fault-tolerant distributed key-value store using Paxos consensus, ensuring linearizability and high availability under network partitions.\
+Implemented a full-scale ISP network in a virtualized environment, configuring BGP routing, DNS, DHCP, and web services, ensuring robust connectivity and network isolation.
 
 <strong>09/2024 - 06/2025. Maynooth University, Ireland</strong> \
 <strong>Degree:</strong> Bachelor of Science (BSc in Computer Science)\
