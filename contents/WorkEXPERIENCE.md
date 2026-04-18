@@ -3,7 +3,7 @@
 - Supervised by Prof. Dilian Gurov. Developing ContractFlowGraph, a hybrid verification toolchain designed to validate industrial automotive software.
 - Designing an automated translation pipeline from C/ACSL to TLA+/nuXmv, targeting the validation of industrial modules with an estimated 80% reduction in manual overhead.
 
-<strong>10/2023-06/2024 Cyberspace Security Innovation Research Institute, China</strong>\
+<strong>10/2023-06/2024 Binjiang Cyberspace Security Institute of ZJUT, China</strong>\
 <strong>Full-Stack Engineer Intern</strong>
 - Contributed to AI large-language-model projects, improving efficiency and scalability.
 - Conducted system testing and optimization for functionality across multiple real-world scenarios.
