@@ -4,7 +4,7 @@
 - Designing an automated translation pipeline from C/ACSL to TLA+/nuXmv, targeting the validation of industrial modules with an estimated 80% reduction in manual overhead.
 
 <strong>10/2023-06/2024 Binjiang Cyberspace Security Institute of ZJUT, China</strong>\
-<strong>Full-Stack Engineer Intern</strong>
+<strong>Software Engineer Intern (R&D)</strong>
 - Contributed to AI large-language-model projects, improving efficiency and scalability.
 - Conducted system testing and optimization for functionality across multiple real-world scenarios.
 - Spearheaded the development of an IoT-based Smart Home System, integrating DTU devices, cloud services, and a WeChat mini-program for user-centric control.
