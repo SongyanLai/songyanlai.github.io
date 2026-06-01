@@ -1,3 +1,9 @@
+<strong>11/2025 - 05/2026 Flow Graph to nuXmv Verification Engine</strong>  
+- Engineered the backend formal verification toolchain proposed in two core research papers from the KTH TCS department: "Deductive Verification Based Abstraction for Software Model Checking" and "Contract Based Program Models for Software Model Checking".
+- Designed an OCaml-based Abstract Syntax Tree (AST) to parse mathematical contracts, implementing dynamic AST scanning to automatically generate Smart Frame Conditions to prevent logical deadlocks during transitions.
+- Successfully translated and verified complex academic and industrial case studies, including a Contract-Based Temperature Converter and an automotive Power Steering System (STEE) module using the IC3/PDR algorithm.
+
+
 <strong>09\2024-08\2025 Integrating FRET and WEST (Collaboration with NASA) [[Code]](https://github.com/SongyanLai/Integrating-FRET-and-WEST)</strong>  
 - Developing an integration between the FRET Tool and WEST Tool to enhance the traceability of system requirements, focusing on Linear Temporal Logic (LTL), Mission-Time LTL, and formal verification methodologies, while ensuring compatibility with WEST's state-space exploration and theorem proving techniques.
 - Examines FRET and WEST along with various Linear Temporal Logic frameworks and mainstream software formal verification tools, demonstrating the necessity of integrating FRET and WEST.

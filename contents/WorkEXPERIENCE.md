@@ -1,7 +1,13 @@
+<strong>06/2026 - 08/2026 TRATON Group (Scania), Sweden</strong>\
+<strong>Summer Internship</strong>
+- Employed within the TGRESTO Onboard Solutions department at Scania's headquarters in Södertälje.
+
+
 <strong>11/2025-Present KTH Royal Institute of Technology, Sweden</strong>\
 <strong>Research Assistant</strong>
-- Supervised by Prof. Dilian Gurov. Developing ContractFlowGraph, a hybrid verification toolchain designed to validate industrial automotive software.
-- Designing an automated translation pipeline from C/ACSL to TLA+/nuXmv, targeting the validation of industrial modules with an estimated 80% reduction in manual overhead.
+- Supervised by Prof. Dilian Gurov. Migrated a backend translation compiler for formal software verification from an Object-Oriented Python prototype to a purely functional OCaml architecture, establishing native compatibility with the Frama-C API.
+- Engineered a Simulated Bounded Pushdown System (PDS) in nuXmv to verify recursive C functions.
+- Utilized SMT (MathSAT) with pure declarative logic and unbounded integers to perform infinite-state proofs for automotive software without state-space explosion.
 
 <strong>10/2023-06/2024 Binjiang Cyberspace Security Institute of ZJUT, China</strong>\
 <strong>Software Engineer Intern (R&D)</strong>
@@ -10,12 +16,9 @@
 - Spearheaded the development of an IoT-based Smart Home System, integrating DTU devices, cloud services, and a WeChat mini-program for user-centric control.
 
 <strong>07/2023-08/2023 Jiaxing Dongxin Lan Electronic Technology Co., Ltd., China</strong>\
-<strong>Full-Stack Engineer Intern</strong>
+<strong>Full-Stack Engineer (Summer Internship)</strong>
 - Independently managed a website development project, completing the full cycle from proposal to deployment.
 - Expanded market outreach and communicated with government entities on new projects.
 - Designed and implemented dynamic front-end interfaces using HTML5, JavaScript, and CSS3, and developed back-end databases with MySQL.
 
-<!-- <strong>06/2022-08/2022 China Electronics Technology Group Corporation (Fortune Global 500 Company), China</strong>\
-<strong>Software Development Engineer Intern</strong>
-- Transitioned a mission-critical project from Client/Server (C/S) to Browser/Server (B/S) architecture using HTML5 and JavaScript, enhancing system scalability and accessibility.
-- Engaged in the design and development of prototype interfaces. -->
+
