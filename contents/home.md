@@ -12,6 +12,8 @@ I am passionate about building scalable and verifiable computing systems and loo
 <!-- KTH:s vision och övergripande mål: Grundforskning till samhällsnytta
 Ny kunskap och teknisk utveckling – för världen, samhället och människan. -->
 
+####
+
 #### Email
 
 laisongyan@foxmail.com\
@@ -20,6 +22,9 @@ SongyanL@kth.se
 ####
 
 #### Education
+<strong>08/2026 - present. Aalto University, Finland</strong> \
+<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital)
+<strong>Core Modules: </strong>Cloud Software and Systems, Multimedia Systems, Operating systems.\
 
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
 <strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital) \
