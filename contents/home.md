@@ -16,15 +16,16 @@ Ny kunskap och teknisk utveckling – för världen, samhället och människan. 
 
 #### Email
 
-laisongyan@foxmail.com\
-SongyanL@kth.se
+songyanlai123@gmail.com\
+songyan.lai@aalto.fi\
+songyanl@kth.se
 
 ####
 
 #### Education
 <strong>08/2026 - present. Aalto University, Finland</strong> \
-<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital)
-<strong>Core Modules: </strong>Cloud Software and Systems, Multimedia Systems, Operating systems.\
+<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital) \
+<strong>Core Modules: </strong>Cloud Software and Systems, Multimedia Systems, Operating systems.
 
 <strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
 <strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital) \
