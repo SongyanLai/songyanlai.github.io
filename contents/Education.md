@@ -1,7 +1,13 @@
 #### Education
-
-<strong>08/2025 - present. KTH Royal Institute of Technology, Sweden</strong> \
+<strong>08/2026 - present. Aalto University, Finland</strong> \
 <strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (EIT Digital)
+<strong>Core Modules: </strong>Cloud Software and Systems, Multimedia Systems, Operating systems.\
+<!-- <strong>Core Research:</strong>\
+Collaborated with Scania to implement ContractFlowGraph: a hybrid verification toolchain converting C/ACSL programs into TLA+/nuXmv models for industrial case studies.\
+Designed and implemented a full-scale ISP network in a virtualized environment, configuring BGP routing, DNS, DHCP, and web services. -->
+
+<strong>08/2025 - 06/2026. KTH Royal Institute of Technology, Sweden</strong> \
+<strong>Degree:</strong> MSc Cloud and Networking Infrastructure with HPC (Entry year)
 <strong>Core Modules: </strong>Advanced Internetworking, Data-Intensive Computing, Distributed Systems, Data Mining\
 <strong>Core Research:</strong>\
 Collaborated with Scania to implement ContractFlowGraph: a hybrid verification toolchain converting C/ACSL programs into TLA+/nuXmv models for industrial case studies.\

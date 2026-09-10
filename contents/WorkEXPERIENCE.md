@@ -1,6 +1,8 @@
 <strong>06/2026 - 08/2026 TRATON Group (Scania), Sweden</strong>\
-<strong>Summer Internship</strong>
-- Employed within the TGRESTO Onboard Solutions department at Scania's headquarters in Södertälje.
+<strong>Summer Internship (TGRESTO Onboard Solutions)</strong>
+- Evaluated the AutoDeduct toolchain for C and ACSL code verification, developing a Python-based test framework with a backend-aware runner and 74 unit tests.
+- Designed 31 strict public-safe helper-inference probes to establish an empirical support boundary map for automated deductive verification.
+- Automated the OPAM-based installation of the toolchain and validated it on Ubuntu 24.04 and WSL2 environments.
 
 
 <strong>11/2025-Present KTH Royal Institute of Technology, Sweden</strong>\
