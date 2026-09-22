@@ -1,7 +1,7 @@
 [![senli1073](https://img.shields.io/badge/SongyanLai-github-blue?logo=github)](https://github.com/SongyanLai)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3109--5068-green?logo=orcid)](https://orcid.org/0009-0002-3109-5068)
 
-I am currently a second-year Master's student in the Cloud and Network Infrastructures and High-Performance Computing programme at Aalto University. Recently, I completed a summer internship within the TGRESTO Onboard Solutions department at TRATON Group (Scania), where I evaluated the AutoDeduct toolchain for automated deductive verification. Previously, I served as a Research Assistant in formal methods at the Department of Theoretical Computer Science (TCS) at KTH Royal Institute of Technology under the supervision of Prof. Dilian Gurov.
+I am currently a second-year Master's student in the Cloud and Network Infrastructures and High-Performance Computing programme at Aalto University. Recently, I completed a summer internship within the research team Onboard Solutions department at TRATON Group (Scania), where I evaluated the AutoDeduct toolchain for automated deductive verification. Previously, I served as a Research Assistant in formal methods at the Department of Theoretical Computer Science (TCS) at KTH Royal Institute of Technology under the supervision of Prof. Dilian Gurov.
 
 I am pursuing my Master’s in the prestigious Double Master’s Programme in Cloud and Network Infrastructure with HPC (EU Digital Europe Programme, Project No. 101190015), featuring academic mobility between KTH (Sweden) and Aalto University (Finland). I hold a BSc in Computer Science with First-Class Honours from Maynooth University in Ireland.
 
