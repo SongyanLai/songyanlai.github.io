@@ -1,3 +1,14 @@
+<strong>10/2026-Present Aalto University, Finland</strong>\
+<strong>Research Assistant (Part-time)</strong>
+- Supervised by Prof. Valeriy Vyatkin. Researching safety requirements for industrial crane control systems in collaboration with an industrial partner.
+- Reviewing safety requirements against EN 13135, EN 15011 and EN ISO 13849-1.
+- Formalizing selected requirements in temporal logic and verifying them with model checking (NuSMV/nuXmv).
+- Deriving test scenarios from model-checking counterexamples.
+
+<strong>Teaching Assistant (Part-time)</strong>
+- Teaching Assistant for Embedded Systems Development (5 ECTS), an MSc-level course covering requirements engineering, design specification, testing and fault tolerance, and performance analysis of embedded real-time systems.
+
+
 <strong>06/2026 - 08/2026 TRATON Group (Scania), Sweden</strong>\
 <strong>Summer Internship (TGRESTO Onboard Solutions)</strong>
 - Evaluated the AutoDeduct toolchain for C and ACSL code verification, developing a Python-based test framework with a backend-aware runner and 74 unit tests.
